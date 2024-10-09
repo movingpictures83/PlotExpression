@@ -1,0 +1,4 @@
+dataset	AlvMac.rds
+results	results.rds
+geneid	ENSBTAG00000047107
+xvar	Animal
